@@ -1,0 +1,10 @@
+title       = "infoq"
+baseURL     = "https://infoq-cli.tamnd.com/"
+description = "Browse InfoQ software development articles"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/infoq-cli"
